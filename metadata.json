@@ -1,0 +1,6 @@
+{
+  "name": "ShopCore - Shop Management System",
+  "description": "Production-ready shop management system for multi-shop employee assignment, inventory control, purchases, offline sales, WhatsApp & Instagram online sales, and owner analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

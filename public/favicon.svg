@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <defs>
+    <linearGradient id="pasaraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="50%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6ee7b7" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="url(#pasaraGrad)" />
+  <rect x="2" y="2" width="44" height="44" rx="12" stroke="#34d399" stroke-width="1.2" stroke-opacity="0.4" />
+  <rect x="12" y="11" width="5.5" height="26" rx="2.75" fill="#ffffff" />
+  <path d="M14.75 11h11.5c4.56 0 8.25 3.58 8.25 8s-3.69 8-8.25 8h-11.5v-5.5h11.5c1.52 0 2.75-1.12 2.75-2.5s-1.23-2.5-2.75-2.5h-11.5V11z" fill="#ffffff" />
+  <path d="M22 19l2.2-2.2 2.2 2.2-2.2 2.2z" fill="url(#accentGrad)" />
+  <rect x="21" y="32" width="13" height="4" rx="2" fill="url(#accentGrad)" />
+</svg>
